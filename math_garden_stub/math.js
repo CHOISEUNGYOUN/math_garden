@@ -1,4 +1,4 @@
-let answer;
+var answer;
 let score = 0;
 let backgroundImages = [];
 
